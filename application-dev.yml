@@ -3,9 +3,9 @@
 veewapcloud:
   version: '1.0'
   author: 'TonyChan'
-  
+
 logging:
   # path: ./log
   file: ./log/${spring.application.name}.log
-  file:
-    max-size: 10 MB
+  # file:
+  #   max-size: 10 MB
