@@ -3,3 +3,9 @@
 veewapcloud:
   version: '1.0'
   author: 'TonyChan'
+
+
+logging:
+  path: ./log
+  file:
+    max-size: 10MB
