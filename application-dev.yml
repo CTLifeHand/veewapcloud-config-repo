@@ -5,7 +5,4 @@ veewapcloud:
   author: 'TonyChan'
 
 logging:
-  # path: ./log
-  file: ./log/avc.log
-  # file:
-  #   max-size: 10 MB
+  path: ./log/${spring.application.name}.log
