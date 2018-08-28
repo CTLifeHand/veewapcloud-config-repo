@@ -6,6 +6,6 @@ veewapcloud:
 
 logging:
   # path: ./log
-  file: ./log/${spring.application.name}.log
+  file: ./log/avc.log
   # file:
   #   max-size: 10 MB
