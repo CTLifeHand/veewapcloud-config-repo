@@ -5,4 +5,4 @@ veewapcloud:
   author: 'TonyChan'
 
 logging:
-  path: ./log/${spring.application.name}.log
+  file: ./log/${spring.application.name}.log
