@@ -6,3 +6,7 @@ veewapcloud:
 
 logging:
   file: ./log/${spring.application.name}.log
+  level:
+    com.veewap.provider.mapper: debug
+
+
