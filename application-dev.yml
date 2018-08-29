@@ -1,7 +1,7 @@
 
 
 veewapcloud:
-  version: '2.1'  # 测试bus
+  version: '2.2'  # 测试bus
   author: 'TonyChan'
 
 logging:
