@@ -9,4 +9,8 @@ logging:
   level:
     com.veewap.provider.mapper: debug
 
-
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
